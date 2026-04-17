@@ -1,4 +1,4 @@
-# Question : Take diameter as input and calculate the area of a circle
+# Question : Take diameter as input and calculate the area of a circle.
 
 diameter = int(input("Enter the value of diameter : "))
 radius = diameter/2
