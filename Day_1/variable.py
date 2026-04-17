@@ -1,3 +1,4 @@
+# Variable = Name that stores a value in memory.
 Name = "Satybhan"
 print("My name is : ", Name)
 Age = 16
