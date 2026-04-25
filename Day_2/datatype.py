@@ -1,3 +1,4 @@
+# Four Data Type in Python 
 food = "Samosa"
 age =  12
 area = 259.55
